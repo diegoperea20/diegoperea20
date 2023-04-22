@@ -7,7 +7,7 @@ print("hello world")
 ---
 ### **SKILLS**
 * Databases : MySQL , PostgreSQL, MongoDB .
-* Othres: Python ,HTML , CSS, Reactive.js , Javascript , PHP , Python Flask, django, Git , Git Hub , Linux , Ubuntu , pyscript, HuggingFace , Vscode , Matlab , C++ , ROS2 , R , PlatformIO 
+* Othres: Python,Tensorflow ,Pytorch ,Vscode,Linux , Ubuntu , C++,Git , Git Hub,  Python Flask, django ,PowerBi, Arduino, Docker ,  Javascript , HTML ,CSS, Reactive.js ,React native ,PHP , HuggingFace , ROS2, R , PlatformIO, Pyspark , Streamlit, Azure , AWS ,Web Scraping (Selenium , Beautiful Soup) , ChatGPT
 * Microcontrollers: ESP32 , Arduino Nano 33 BLE Sense , Arduino Uno
 <!--
 **diegoperea20/diegoperea20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
